@@ -6,6 +6,10 @@ Ideal para estudantes e autodidatas em fase inicial da aprendizagem da linguagem
 
 ---
 
+![Ilustração](https://github.com/Cati94/Python_Logic_Files/blob/main/python.png)
+
+
+
 ## 📄 Exemplos de exercícios incluídos
 
 * `Calcular par ou impar de numero.py`
